@@ -3,7 +3,7 @@ import {
     // Button, 
     Menu, Typography, Avatar } from 'antd';
 import { Link } from 'react-router-dom';
-import { FundOutlined, HomeOutlined, MoneyCollectOutlined, BulbOutlined, MenuOutlined } from '@ant-design/icons';
+import { FundOutlined, HomeOutlined, MoneyCollectOutlined, BulbOutlined } from '@ant-design/icons';
 
 import icon from '../images/cryptocurrency.png'
 
